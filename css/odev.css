@@ -1,25 +1,34 @@
-/* ldsldgisşgls 
 
-h1, h2, h3, h4, h5, h6 {color: #a03838;}
+h1 {color: rgb(214, 88, 214);}
 
-h1 {font-size: 30px; color:#a03838 ;}
+h2 {color: rgb(14, 141, 40);}
 
-p {font-size: 20px;}
+h3 {color: brown;}
 
-#first-article {font-size: 40px;}
+h4 {color: rgb(154, 118, 11);}
 
-/* # bu işaret htmlde id'ye karşılık geliyor */
 
-/* . ise html de class kısmına denk geliyor 
 
-.text-red {color: red;}
+h1, h2, h3, h4 {font-family: Arial, Helvetica, sans-serif;}
 
-.fs-small {font-size: 14px;}
+p {font-family: Arial, Helvetica, sans-serif;}
 
-.fs-medium {font-size: 20px;}
+li {font-size: 19px;}
 
-.fs-large {font-size: 30px;}
- */
+
+
+
+.fs {font-size: 18px;}
+
+.a {list-style-position: inside;}
+
+.syf {font-size: 20px; 
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;}
+
+    
+#first-article {text-align: left;}
+
 
 
 
